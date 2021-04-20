@@ -1,0 +1,81 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102.7521254,
+            7.3903283
+          ],
+          [
+            102.7927427,
+            7.4698458
+          ]
+        ]
+      },
+      "properties": {
+        "prop0": "TPB to TPA",
+        "prop1": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            103.041844,
+            7.5421308
+          ],
+          [
+            103.0279134,
+            7.5865951
+          ]
+        ]
+      },
+      "properties": {
+        "prop0": "MDG to MDE",
+        "prop1": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              103.333,
+              6.5
+            ],
+            [
+              103.52,
+              5.333
+            ],
+            [
+              104.95,
+              4.333
+            ],
+            [
+              103.833,
+              6.5
+            ],
+            [
+              103.333,
+              6.5
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "prop0": "Malaysia Fishing",
+        "prop1": {
+          "this": "that"
+        }
+      }
+    }
+  ]
+}
